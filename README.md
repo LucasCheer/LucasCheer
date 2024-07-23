@@ -10,7 +10,7 @@
 - I'm from Argentina, Buenos Aires 🌐
 - A passionate Full Stack Developer 💻
 - Student at the University of Buenos Aires 📚
-- Self-taught Developer
+- Self-taught Developer 🙋‍♂️
   
 <!---
 LucasCheer/LucasCheer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
