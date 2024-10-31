@@ -10,7 +10,6 @@
 - I'm from Argentina, Buenos Aires 🌐
 - A passionate Full Stack Developer 💻
 - Student at the University of Buenos Aires 📚
-- Self-taught Developer 🙋‍♂️
 
 
 ## My Tech Stack
