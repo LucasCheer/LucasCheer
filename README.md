@@ -8,7 +8,7 @@
 
 
 - I'm from Argentina, Buenos Aires 🌐
-- A Full Stack Developer 💻
+- Developer 💻
 - Student at the University of Buenos Aires 📚
 
 
